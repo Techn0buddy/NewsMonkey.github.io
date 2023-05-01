@@ -172,8 +172,8 @@ async componentDidMount(){
       return (
               <div className="container my-3 mx-auto">
               <h2 className='my-3 text-decoration-underline text-center'>NewsMonkey - Top Headlines</h2>
-              <div className='d-flex justify-content-center align-items-center w-50 p-3'>
-                {this.state.loading && <Spinner/>}  
+              <div className='d-flex justify-content-center align-items-center  '>
+                <span className='w-25 p-3'>{this.state.loading && <Spinner/>}  </span>
               </div>
                     <div className="row">
                         {!this.state.loading && this.state.articles.map((element) => {
