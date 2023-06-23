@@ -1,1 +1,0 @@
-NewsMonkey is a react based web-application which provides you with latest news at ease. So that you will always be updated with current affairs and happening around you. 
