@@ -18,7 +18,7 @@ const News = (props) => {
   const capitalise = (string) => {
     return string.charAt(0).toUpperCase() + string.slice(1);
   };
-    document.title = "NewMonkey - " + capitalise(props.category);
+    
 
   
     const updateNews = async () => {
@@ -40,6 +40,8 @@ const News = (props) => {
   }
 
   useEffect(() => {
+    <Spinner/>
+    document.title = "NewMonkey - " + capitalise(props.category);
     updateNews();
     setPage(page + 1);
   // eslint-disable-next-line react-hooks/exhaustive-deps
