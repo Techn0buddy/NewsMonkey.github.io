@@ -12,7 +12,7 @@ import LoadingBar from 'react-top-loading-bar';
 
 export default class App extends Component {
   state = {
-    prgress : 0
+    progress : 0
   }
 
   setProgress = (progress) => 
