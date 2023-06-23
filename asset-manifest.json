@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NewsMonkey.github.io/static/css/main.abd64e84.css",
+    "main.js": "/NewsMonkey.github.io/static/js/main.94b2acf2.js",
+    "static/js/787.795cde03.chunk.js": "/NewsMonkey.github.io/static/js/787.795cde03.chunk.js",
+    "static/media/Spinner-2.gif": "/NewsMonkey.github.io/static/media/Spinner-2.0c2993480d0ca8008754.gif",
+    "index.html": "/NewsMonkey.github.io/index.html",
+    "main.abd64e84.css.map": "/NewsMonkey.github.io/static/css/main.abd64e84.css.map",
+    "main.94b2acf2.js.map": "/NewsMonkey.github.io/static/js/main.94b2acf2.js.map",
+    "787.795cde03.chunk.js.map": "/NewsMonkey.github.io/static/js/787.795cde03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.94b2acf2.js"
+  ]
+}
